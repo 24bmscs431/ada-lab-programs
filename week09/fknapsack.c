@@ -52,3 +52,4 @@ void knapsack(int n, int m, int w[], int p[]) {
 int max(int a, int b) {
     return (a > b) ? a : b;
 }
+
